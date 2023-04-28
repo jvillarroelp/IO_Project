@@ -1,2 +1,26 @@
-# IO_Project
-Trabajo grupal de la materia Investigación Operativa que se centra en la realización de una solución a la problemática de los horarios.
+# Proyecto-Base de Datos
+
+El proyecto consiste en la creación de un horario, tanto para clases, profesores y alumnos, en donde se tomen en cuenta los choques de horarios y así darles una solución al momento, dicho solución se centrara en la eliminación de estos choques.
+
+# Tabla de Contenidos
+
+* [Proyecto IO](#proyecto-investigacion-operativa)
+* [Problematica](#problematica)
+* [Instalacion](#instalacion)
+* [Estado del proyecto](#estado-de-proyecto)
+* [Tecnologias usadas](#tecnologias-usadas)
+
+# Problematica
+
+# Instalacion
+
+# Estado de Proyecto
+
+El proyecto está: _En proceso._
+
+# Tecnologias usadas
+
+ - [Visual Studio Code - 1.73](https://code.visualstudio.com/Download)
+ - [XAMPP](https://www.apachefriends.org/es/index.html)
+ - [Filezilla](https://filezilla-project.org/)
+ - [Draw.io](https://app.diagrams.net/)
